@@ -1,5 +1,6 @@
 ##徐博宇——随心所想录
 (https://github.com/learnNetLang/xuboyu.github.io/edit/gh-pages/index.md) 
+
 '''
 古代最美的谎话，帝王：
 待我君临天下，许你四海为家。
